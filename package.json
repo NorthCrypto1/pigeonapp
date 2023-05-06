@@ -20,7 +20,7 @@
     "react-easy-swipe": "0.0.18",
     "react-emojipicker": "^1.1.1",
     "react-long-press": "^0.1.6",
-    "react-scripts": "3.0.1",
+    "react-scripts": "5.0.1",
     "react-select": "^3.0.8",
     "throttle-debounce": "^2.1.0"
   },
